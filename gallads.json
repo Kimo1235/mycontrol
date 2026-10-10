@@ -1,0 +1,51 @@
+{
+  "ads": {
+
+   
+
+     "ShowAds": false,
+     "ClickCount": 1,
+     "ShowLoadingAds": true,
+
+    "AdmobInterstitial": "",
+    "AdmobBanner":"",
+    "AdmobNative":"",
+    "AdmobOpen":"",
+
+    "unity_inter": "Interstitial_Android",
+    "unity_banner": "Banner_Android",
+    "unity_gameid": "5082535",
+
+    
+    
+    "FanBanner": "IMG_16_9_APP_INSTALL#1444095999348608_1508844899540384",
+    "FanNative": "IMG_16_9_APP_INSTALL#1444095999348608_1526320831126124",
+    "FanInterstitial": "IMG_16_9_APP_INSTALL#1444095999348608_1507496829675191",
+
+    
+    "MaxBanner": "d7e5387a22cc8044",
+    "MaxNative": "5534d47212ed8e80",
+    "MaxInterstitial": "269d73adeea133fb",
+   
+   
+    "IronAppKey": "147d445d9",
+    "IronBanner": "DefaultBanner",
+    "IronInterstitial": "DefaultInterstitial",
+    
+
+
+   
+
+    
+    "priorityInterstitial": "admob",
+    "PriorityBanner": "admob",
+    "PriorityNative": "admob"
+    
+   
+    
+   
+    
+    
+    
+  }
+}
