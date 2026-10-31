@@ -1,0 +1,25 @@
+{
+  "ads": {
+    "ShowAds": false,
+    "ClickCount": 1,
+    "ShowLoadingAds": true,
+    "AdmobInterstitial": "",
+    "AdmobBanner": "",
+    "AdmobNative": "",
+    "AdmobOpen": "",
+    "admob_reward": "",
+    "admob_rewardinterstitial": "",
+    "FanBanner": "",
+    "FanNative": "",
+    "FanInterstitial": "",
+    "MaxBanner": "",
+    "MaxNative": "",
+    "MaxInterstitial": "",
+    "IronAppKey": "",
+    "IronBanner": "",
+    "IronInterstitial": "",
+    "priorityInterstitial": "admob",
+    "PriorityBanner": "admob",
+    "PriorityNative": "admob"
+  }
+}
