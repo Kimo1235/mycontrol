@@ -1,6 +1,6 @@
 {
   "ads": {
-    "ShowAds": false,
+    "ShowAds": true,
     "ClickCount": 1,
     "ShowLoadingAds": true,
     "AdmobInterstitial": "ca-app-pub-5748103738099026/1279447053",
